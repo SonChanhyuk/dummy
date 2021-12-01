@@ -1,2 +1,7 @@
 # dummy
-dummyforgitpractice
+## my project!
+* dummy
+* dummydummy
+* dummydummydummy
+- dummy
+
